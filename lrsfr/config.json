@@ -1,0 +1,40 @@
+{
+    "token": "ODYzOTAyNDExNzcxNzQwMTkw.YOtp0Q.72OJHHFeB2lWJSHwkdX_-oYMv_k",
+    "prefix": "!",
+    "cmdSuggest": "suggest",
+    "channelSend": "846124504455446559",
+    "channelReceive": "712718882552676352",
+    "channelBugs": "835915479759323206",
+    "cmdRefuse": "rSuggest",
+    "cmdAccept": "aSuggest",
+    "channelStaff": "735463065562251314",
+    "cmdBugs": "bugs",
+    "cmdBan": "ban",
+    "cmdKick": "kick",
+    "cmdMute" : "mute",
+    "idMuted" : "863415690177282078",
+    "cmdUnMute": "unmute",
+    "cmdTempmute": "tempmute",
+    "cmdPlay": "play",
+    "cmdList": "plist",
+    "playPrefix" : "$",
+    "cmdSkip": "skip",
+    "cmdLeave": "leave",
+    "cmdReact": "reactmsg",
+    "channelNotifs": "865632187096105000",
+    "msgNotifs" : "865636206507327529",
+    "RolesCL": "865633274272677918",
+    "reactionRole": {
+        "865636206507327529": {
+            "removable": true,
+            "emojis": [{
+                "name": "⚙️",
+                "roles": "865633274272677918"
+            }, {
+                "name": "👓",
+                "roles": "865214356626866206"
+            }]
+        }
+    }
+}
+
